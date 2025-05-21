@@ -1,0 +1,15 @@
+gitignore
+복사편집
+__pycache__/
+.venv/
+.vscode/
+.ipynb_checkpoints
+data/raw/*
+data/processed/*
+logs/*
+mlruns/
+*.pkl
+*.joblib
+*.h5
+.env
+.DS_Store
